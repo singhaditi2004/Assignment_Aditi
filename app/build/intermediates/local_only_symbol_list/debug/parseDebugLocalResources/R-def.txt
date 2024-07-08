@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color sky
+color white
+drawable clipboard
+drawable color
+drawable excel
+drawable gamepad
+drawable home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable settings
+id board
+id drawer_layout
+id game
+id home
+id navigation_view
+id pdf
+id setting
+layout activity_main
+layout header
+menu list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AditiSinghBais_ASSIGNMENT
+style Theme.AditiSinghBais_ASSIGNMENT
+xml backup_rules
+xml data_extraction_rules
